@@ -1,0 +1,43 @@
+[
+    {
+        "name": "8 millas",
+        "info": {
+            "added": 1739795091,
+            "poster": "https://image.tmdb.org/t/p/original/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/original/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+            "plot": "La película narra la historia de Jimmy Smith Jr. (Eminem), un joven rapero que vive en un barrio pobre de Detroit y que sueña con triunfar en el mundo de la música. Jimmy tiene que enfrentarse a varios problemas, como su trabajo precario, su relación con su madre alcohólica y su hija pequeña, su novia infiel y sus rivales en el rap. Jimmy participa en unas batallas de rap donde tiene que demostrar su talento y su ingenio frente a otros raperos. Su objetivo es ganar el concurso que se celebra en el club 8 Mile, el límite entre el barrio blanco y el negro, y así conseguir el respeto y la fama que desea.",
+            "rating": "7.134",
+            "year": "2002",
+            "genre": [
+                "Drama",
+                "Música"
+            ],
+            "cast": [
+                "Eminem",
+                "Kim Basinger",
+                "Mekhi Phifer",
+                "Brittany Murphy",
+                "Evan Jones"
+            ],
+            "director": [
+                "Curtis Hanson"
+            ],
+            "country": [
+                "Alemania",
+                "Estados Unidos"
+            ],
+            "duration": "110 min"
+        },
+        "video": "https://vod-dash4k-movistarplus.emisiondof6.com/prod/uhd_dash/cplus-332186-uhd-01_cplus-332186-uhd_pur4dhz4mg4n3tg/manifestuhd.mpd",
+        "drm": "clearkey",
+        "drmkey": "2b6418eba6fd4adcb840c24c24f3ea43:d1d94ab8eeba2c9159abe7304e955cdc",
+        "license_url": "https://pr-ottlic-f3.imagenio.telefonica.net/TFAESP/prls/contentlicenseservice/v1/licenses",
+        "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "*/*",
+            "Content-Type": "text/xml; charset=utf-8",
+            "Origin": "https://ver.movistarplus.es",
+            "Referer": "https://ver.movistarplus.es/"
+    }
+
+]

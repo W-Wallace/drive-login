@@ -1,0 +1,21 @@
+[
+  {
+    "name": "8 millas",
+    "name:lv": "Testa video",
+    "category": "Action",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/original/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+      "plot": "La película narra la historia de Jimmy Smith Jr. (Eminem), un joven rapero que vive en un barrio pobre de Detroit y que sueña con triunfar en el mundo de la música. Jimmy tiene que enfrentarse a varios problemas, como su trabajo precario, su relación con su madre alcohólica y su hija pequeña, su novia infiel y sus rivales en el rap. Jimmy participa en unas batallas de rap donde tiene que demostrar su talento y su ingenio frente a otros raperos. Su objetivo es ganar el concurso que se celebra en el club 8 Mile, el límite entre el barrio blanco y el negro, y así conseguir el respeto y la fama que desea.",
+      "cast": [ "Eminem" , "Kim Basinger" , "Mekhi Phifer" , "Brittany Murphy" , "Evan Jones" ],
+      "director": [ "Curtis Hanson" ],
+      "country": [ "EE.UU." ],
+      "rating": "7.134",
+      "year": 2002,
+      "genre": [ "drama", "música" ],
+      "added": 1739786035,
+      "duration": 3600,
+    },
+    "video": "http://video/file.mp4"
+  },
+]
